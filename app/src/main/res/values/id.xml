@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="inputButton1" type="id" />
+    <item name="inputButton2" type="id" />
+    <item name="inputButton3" type="id" />
+    <item name="inputButton4" type="id" />
+    <item name="inputButton5" type="id" />
+    <item name="inputButton6" type="id" />
+    <item name="inputButton7" type="id" />
+    <item name="inputButton8" type="id" />
+    <item name="inputButton9" type="id" />
+    <item name="inputButton10" type="id" />
+    <item name="inputButton11" type="id" />
+    <item name="inputButton12" type="id" />
+
+    <item name="inputButton13" type="id" />
+    <item name="inputButton14" type="id" />
+    <item name="inputButton14_line" type="id" />
+    <item name="inputButton15" type="id" />
+    <item name="inputButton15_line" type="id" />
+
+
+</resources>

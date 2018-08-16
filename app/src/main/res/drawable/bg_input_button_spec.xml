@@ -1,0 +1,12 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 标题右边按钮背景 -->
+    <item android:drawable="@color/forget_pw" android:state_enabled="false" />
+    <!-- pressed -->
+    <item android:drawable="@color/forget_pw" android:state_pressed="true" />
+    <!-- focused -->
+    <item android:drawable="@color/forget_pw" android:state_focused="true" />
+    <!-- default -->
+    <item android:drawable="@color/forget_pw" />
+
+</selector>
